@@ -1,8 +1,8 @@
 ## Projetos Desenvolvidos
 
-You can use the [editor on GitHub](https://github.com/josevamlima/analisededados/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Essa pagina foi desenvolvida para demonstração de alguns projetos de Dashboard criados na liguagem de programacao R.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+autor: Josevam de sousa lima
 
 ### Markdown
 
