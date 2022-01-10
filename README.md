@@ -1,12 +1,13 @@
-## Projetos Desenvolvidos
 
-Essa pagina foi desenvolvida para demonstração de alguns projetos de Dashboard criados na liguagem de programacao R.
+Josevam Lima  Graduado pela Faculdade Sergipana - FASER - em Gestão de Tecnologia da Informação, Pós Graduado em Didática do Ensino Superior, especialização em Segurança de Redes, especialista em infraestrutura de ti, Atualmente exerço a função de TI da prefeitura de Aracaju, desempenhando o papel de instrutor de sistemas no ERP Prontuário Eletrônico, análise de dados extraídos das aplicações utilizadas na rede de saúde do município, criação de relatórios responsivo, utilizando linguagem especificas, como R e Python, suporte na utilização do sistema IDS. Profissional talentoso com 20 anos de carreira na área de informática e suas tecnologias. Habilidade para falar em público, Comprometido a ajudar todos os alunos a alcançarem seu potencial máximo. Educador profissional focado em maximizar o potencial de aprendizagem dos alunos, aplicando estratégias de ensino e técnicas de gestão de sala de aula diversificadas. Habilidoso em comunicar-se com os alunos, facilitar discussões e planejar atividades práticas para melhorar o aprendizado. Especialista em abordagens de ensino.
 
-autor: Josevam de sousa lima
+Interesses
+Modelagem estatística
+Aprendizado de máquina
+Programação
+Metodologias ativas de ensino
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
